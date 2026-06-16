@@ -2,9 +2,12 @@ h1{
     background-color: rgb(111, 74, 233);
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    display: grid;
+    display: flex;
     align-items: center;
-    justify-items: center;
-    height: 100vh;
-
+    justify-content: center;
+    gap: 15px;
+}
+.img{
+    width: 10px;
+    height: auto;
 }
