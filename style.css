@@ -1,0 +1,13 @@
+h1{
+    background-color: rgb(111, 74, 233);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+
+}
+img{
+    width: 10px;
+    height: auto;
+}
